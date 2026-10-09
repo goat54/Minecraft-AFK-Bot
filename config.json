@@ -1,6 +1,7 @@
 {
   "serverHost": "CHALOO-3Zll.aternos.me",
   "serverPort": 60873,
+  "version": "1.21.11"
   "botUsername": "MyBot",
   "botChunk": 1
 }
